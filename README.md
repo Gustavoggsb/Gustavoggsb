@@ -5,4 +5,4 @@
 [![Microsoft Badge](https://img.shields.io/badge/-gustavogsb@outlook.com-8257e6?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:gustavogsb@outlook.com)](mailto:gustavogsb@outlook.com)
 
 
-Enthusiast of the best web & mobile development technologies.
+## Enthusiast of the best web & mobile development technologies.
